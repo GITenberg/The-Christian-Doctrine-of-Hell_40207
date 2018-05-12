@@ -1,0 +1,29 @@
+_repo: The-Christian-Doctrine-of-Hell_40207
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wheeler, J. M. (Joseph Mazzini)
+    aliases:
+    - Wheeler, Joseph Mazzini
+    - Wheeler, Joseph M.
+    birthdate: 1850
+    deathdate: 1898
+    gutenberg_agent_id: '39852'
+    url: http://www.gutenberg.org/2009/agents/39852
+description: ''
+gutenberg_issued: '2012-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hell'
+- !lcc 'BT'
+title: The Christian Doctrine of Hell
+url: http://www.gutenberg.org/ebooks/40207
